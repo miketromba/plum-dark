@@ -4,7 +4,7 @@ By: Mike Tromba
 
 ![Plum Dark Theme for VS Code Screenshot](./assets/plum-dark.png)
 
-### [Created using the Theme Studio for VS Code](https://themes.vscode.one)
+### [Created using the Theme Studio for VS Code](https://themes.vscode.one?ref=theme_plum_dark)
 
 ![Theme Studio for VS Code - Create your own VS Code Themes](./assets/1.png)
 ![Theme Studio for VS Code - Create your own VS Code Themes](./assets/2.png)
@@ -14,4 +14,4 @@ By: Mike Tromba
 ![Theme Studio for VS Code - Create your own VS Code Themes](./assets/6.png)
 ![Theme Studio for VS Code - Create your own VS Code Themes](./assets/7.png)
 
-### [Create Your Own Theme](https://themes.vscode.one)
+### [Create Your Own Theme](https://themes.vscode.one?ref=theme_plum_dark)
