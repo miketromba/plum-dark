@@ -1,0 +1,21 @@
+{
+    "name": "plum-dark-theme",
+    "displayName": "Plum Dark Theme",
+    "description": "A dark violet and blue theme with pink highlights for VS Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Plum Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Plum Dark-color-theme.json"
+            }
+        ]
+    }
+}
