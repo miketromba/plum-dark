@@ -4,8 +4,8 @@
     "displayName": "Plum Dark Theme",
     "description": "A dark violet and blue theme with pink highlights for VS Code.",
     "repository": "https://github.com/miketromba/plum-dark",
-    "icon": "https://github.com/miketromba/plum-dark/assets/plum-dark-icon-128.png",
-    "version": "0.0.1",
+    "icon": "assets/plum-dark-icon-128.png",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.46.0"
     },
