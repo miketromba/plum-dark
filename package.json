@@ -12,6 +12,15 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "themes",
+        "theme",
+        "purple",
+        "violet",
+        "pink",
+        "blue",
+        "neon"
+    ],
     "contributes": {
         "themes": [
             {
